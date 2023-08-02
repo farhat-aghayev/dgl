@@ -1,0 +1,1 @@
+A characteristic of information that ensures it is able to be used when needed.

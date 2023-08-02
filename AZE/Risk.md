@@ -1,0 +1,1 @@
+İnformasiya təhlükəsizliyi riski, müəyyən bir təhlükənin aktivin və ya aktivlər qrupunun zəifliklərindən istifadə etməsi və bununla da [Şirkət] zərər vurması potensialıdır.

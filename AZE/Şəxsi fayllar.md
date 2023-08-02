@@ -1,0 +1,1 @@
+[Şirkət] İT Resurslarında saxlanılan [Şirkət] işgüzar məlumatı olmayan, əvəzində [Şirkət] Resursundan şəxsi istifadəniz ilə əlaqəli olan, bunun üçün yaradılan və ya yığılan hər hansı fayllar. Buraya, misal üçün, korporativ mobil telefonda saxladığınız şəxsi kontakt və ya şəkil daxil ola bilər.

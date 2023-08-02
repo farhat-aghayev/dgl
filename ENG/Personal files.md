@@ -1,0 +1,1 @@
+Any data stored on [Company] IT Resources, which is not [Company]  business data but is instead related to, created or collected by your personal use of a [Company] IT Resource. An example would be a personal contact or a picture that you store on a corporate mobile phone.

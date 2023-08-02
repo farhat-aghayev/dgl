@@ -1,0 +1,1 @@
+Any storage media that is not permanently fixed to a computer such as CDs, DVDs, USB keys or USB drives.

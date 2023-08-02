@@ -1,0 +1,1 @@
+E-Mails that try to get the recipient to reveal confidential or sensitive information by responding to the e-mail or by performing another action (such as filling out a form on a website).

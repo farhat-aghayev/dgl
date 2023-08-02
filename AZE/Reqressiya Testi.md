@@ -1,0 +1,1 @@
+Reqressiya Testinin (RT) məqsədi istehsal mühitində və biznes proseslərində əvvəllər tətbiq edilmiş funksionallığın yeni tətbiq edilən/dəyişdirilmiş konfiqurasiya və inkişaflardan sonra təsirlənməməsini təmin etməkdir.

@@ -1,0 +1,1 @@
+Legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution.

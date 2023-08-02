@@ -1,0 +1,1 @@
+The final testing in Quality Testing Environment accomplished through the execution of predefined business flows, or scenarios, that emulate how the system will run the business after Go-Live.

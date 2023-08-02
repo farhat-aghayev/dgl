@@ -1,0 +1,1 @@
+The purpose of the Regression Testing (RT) is to ensure that previously implemented functionality in production environment and business processes were not affected after the newly implemented/changed configuration and developments.

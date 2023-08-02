@@ -1,0 +1,1 @@
+ability to prove the occurrence of a claimed event or action and its originating [[entity]]

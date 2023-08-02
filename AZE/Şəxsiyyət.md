@@ -1,0 +1,1 @@
+Şəxsiyyət istifadəçinin tanındığı xüsusiyyətlər toplusuna aiddir. Şəxsiyyət istifadəçinin birmənalı şəkildə tanındığı unikal identifikatorun və istifadəçini daha da təsvir edən identifikator atributlarının (məsələn, ad, işçi nömrəsinin iş kodu, giriş hesabının adı...) birləşməsindən ibarət şəxsiyyət profili ilə təmsil olunur.

@@ -1,0 +1,1 @@
+Xidmətlərin göstərilməsi haqqında müqavilə əsasında müstəsna olaraq [Şirkət] adından fəaliyyət göstərən (yəni, həmin şəxs heç bir digər müştərilər üçün xidmət göstərmir), üçüncü tərəfin işçisi olan və iş yeri [Şirkət] ofisində yerləşən şəxs.

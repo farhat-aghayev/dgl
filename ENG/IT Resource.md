@@ -1,0 +1,2 @@
+
+[Company] IT Resources include the equipment, software and data storage that are designed, built, operated, maintained by or licensed to [Company], to create, collect, record, store, retrieve, display, process and transmit information. Examples include laptops, tablets, mobile phones, in-house applications and contracted 3rd party web applications.

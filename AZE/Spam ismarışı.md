@@ -1,0 +1,1 @@
+Arzuolunmaz elektron məktub kimi də tanınır. Nizamsız qaydada bir çox göndərmə siyahısı, şəxs və ya xəbər qruplarına göndərilən əsasən kommersiya xarakterli, gözlənilməyən elektron məktub.

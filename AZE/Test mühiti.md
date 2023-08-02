@@ -1,0 +1,1 @@
+Canlı və inkişaf mühitlərindən təcrid olunmuş xüsusi mühit adətən QA adlanır.

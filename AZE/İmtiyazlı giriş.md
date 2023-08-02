@@ -1,0 +1,1 @@
+Xüsusi, təsdiq edilmiş tapşırıqları həll etmək üçün imtiyazlı giriş daimi və ya vaxtaşırı təmin edilə bilər. Sui-istifadənin qarşısını almaq və hər hansı uyğun olmayan davranışın ələ keçirilməsini təmin etmək üçün bütün imtiyazlı giriş fəaliyyəti qeydə alınmalı və monitorinq edilməlidir.

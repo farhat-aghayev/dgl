@@ -1,0 +1,1 @@
+Check how new configuration fits together with existing configuration. Identify possible issues and fix them before User Acceptance Testing.

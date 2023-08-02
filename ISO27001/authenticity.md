@@ -1,0 +1,1 @@
+property that an [[entity]] is what it claims to be

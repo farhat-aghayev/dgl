@@ -1,0 +1,1 @@
+İddia edilən hadisənin baş verdiyinə və ya iddia edilən hərəkətin həyata keçirildiyinə və bu hadisənin və ya hərəkətin müəyyən bir qurum tərəfindən həyata keçirildiyinə dair danılmaz sübutların təqdim edilməsi.

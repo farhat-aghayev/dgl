@@ -1,0 +1,1 @@
+Risk iştahı və biznes məqsədlərinin müəyyən etdiyi səviyyədən məqbul sapma

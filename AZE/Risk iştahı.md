@@ -1,0 +1,1 @@
+[Şirkət] məqsədlərinə çatmaq üçün qəbul etməyə hazır olduğu riskin miqdarı

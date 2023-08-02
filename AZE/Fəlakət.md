@@ -1,0 +1,1 @@
+Kritik bir iş prosesinə təsir edən və bərpası üçün müstəsna səy tələb edən böyük pozuntu hadisəsi.

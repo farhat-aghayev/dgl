@@ -1,0 +1,1 @@
+successful or unsuccessful unauthorized attempt to destroy, alter, disable, gain access to an [[asset]] or any attempt to expose, steal, or make unauthorized use of an [[asset]]

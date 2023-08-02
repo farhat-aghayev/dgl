@@ -1,0 +1,1 @@
+Printerə göndərilmiş sənədləri çap etməmişdən əvvəl printerin özünə jetonun və ya sancağın daxil edilmə zərurəti.

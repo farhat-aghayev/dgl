@@ -1,0 +1,1 @@
+Any device or material on which data can be electronically placed, kept, and retrieved e.g. USB sticks.

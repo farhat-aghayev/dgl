@@ -1,0 +1,1 @@
+Məlumatın açıqlanmasının və ya icazəsiz şəxslərə verilməsinin qarşısının alınması.

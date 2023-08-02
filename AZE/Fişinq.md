@@ -1,0 +1,1 @@
+Məktuba cavab verərək və ya digər bir addımı ataraq (məsələn, internet saytında forma dolduraraq) alıcının məxfi və ya həssas məlumatı açıqlamasına inandırmağa çalışan elektron məktublar.

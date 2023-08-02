@@ -1,0 +1,1 @@
+Vəzifə bölgüsü, icazə verilməyən giriş birləşmələrinə, xüsusən də [Şirkət] biznesi üçün xüsusi əməliyyat və ya konfidensiallılıq riski daşıyanlara aiddir.

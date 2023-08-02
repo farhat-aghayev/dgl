@@ -1,0 +1,1 @@
+Security awareness efforts are designed to change behavior or reinforce good security practices.

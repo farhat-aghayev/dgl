@@ -1,0 +1,1 @@
+SoD refers to impermissible combinations of access, in particular those that carry a particular transactional or privacy risk for [Company]’s business.

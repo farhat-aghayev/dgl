@@ -1,0 +1,1 @@
+Specialized environment, which is isolated from the live and development environments, usually referred as QA.

@@ -1,0 +1,1 @@
+Müştərilərin xüsusi xərc və risklərə sahib olmadan əldə etmək istədikləri nəticələri asanlaşdırmaqla müştərilərə dəyər təqdim etmək vasitəsi

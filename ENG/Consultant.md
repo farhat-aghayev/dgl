@@ -1,0 +1,1 @@
+Person, either free-lancer or employee of a third-party under a consultancy agreement with [Company], working on behalf of [Company] for a specific pre-determined project for a short or fixed-term assignment. A Consultant may not work exclusively for [Company].

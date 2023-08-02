@@ -1,0 +1,1 @@
+Person who is an employee of a third-party under a contract for services working solely on behalf of [Company] (i.e. the person does not provide services for any other customers) and whose workplace is located on [Company] premises.

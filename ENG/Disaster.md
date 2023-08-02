@@ -1,0 +1,1 @@
+A major disruption event that impacts a critical business process and requires exceptional effort to recover.

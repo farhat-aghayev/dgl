@@ -1,0 +1,1 @@
+Any information, which is created or collected by you in the course of your role.

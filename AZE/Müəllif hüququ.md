@@ -1,0 +1,1 @@
+Hər hansı ölkənin qanunvericiliyi tərəfindən yaradılmış, müstəsna işin yaradıcısına onun istifadəsi və yayılması üzrə müstəsna hüquqlar verən qanuni hüquq.

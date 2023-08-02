@@ -1,0 +1,1 @@
+Ya ştatdan əməkdaş, ya da [Şirkət] ilə məsləhətlərin verilməsi haqqında müqavilə əsasında üçüncü tərəf qismində əməkdaş olan, [Şirkət] adından əvvəlcədən təyin edilmiş xüsusi layihə ərzində müddətli və ya qısa-müddətli təyinatla fəaliyyət göstərən şəxs. Məsləhətçi yalnız [Şirkət] üçün fəaliyyət göstərməyə bilər.

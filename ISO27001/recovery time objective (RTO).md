@@ -1,0 +1,2 @@
+period of time within which minimum levels of services and/or products and the supporting systems, applications, or functions are to be recovered after a [[disruption]] has occurred
+\[SOURCE: ISO/IEC 27031:2011, 3.13, modified — "must" replaced by "are to be".\]

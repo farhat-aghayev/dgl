@@ -1,0 +1,1 @@
+Also known as Junk e-mail. Unsolicited e-mail, often of a commercial nature, sent indiscriminately to multiple mailing lists, individuals, or newsgroups.

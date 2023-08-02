@@ -1,0 +1,1 @@
+Providing undeniable proof that an alleged event happened, or an alleged action was performed, and that this event or action was performed by a particular entity.

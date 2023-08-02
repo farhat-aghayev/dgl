@@ -1,0 +1,1 @@
+The prevention of information being disclosed or made available to unauthorized entities.

@@ -1,0 +1,1 @@
+İstehsalat mühiti adətən PRD adlanır.

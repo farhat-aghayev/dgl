@@ -1,0 +1,1 @@
+Pozuntu hadisədən sonra təşkilatın məhsul və ya xidmətlərin məqbul əvvəlcədən müəyyən edilmiş səviyyələrdə çatdırılmasını davam etdirmək qabiliyyəti.

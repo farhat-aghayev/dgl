@@ -1,0 +1,1 @@
+Yeni konfiqurasiyanın mövcud konfiqurasiya ilə necə uyğunlaşdığını yoxlayır. Mümkün problemləri müəyyən edir və İstifadəçi Qəbulu Testindən əvvəl onlar həll edilməlidirlər.
