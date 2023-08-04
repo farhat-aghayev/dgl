@@ -1,0 +1,1 @@
+İstifadəçi, şəxs və ya rola sistemə giriş hüquqlarını müəyyən etmək və vermək üçün istifadə edilən unikal ad.

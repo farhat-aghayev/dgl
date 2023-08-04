@@ -1,1 +1,0 @@
-Identity refers to the set of characteristics by which a user is known. Identity is represented by an identity profile that is the combination of a unique identifier by which a user is unambiguously known and the set of identifier attributes that further describe the user (e.g. name, employee number job code, login account name...).

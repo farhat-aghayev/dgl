@@ -1,0 +1,1 @@
+İT xidmətləri və ya tətbiqləri yaratmaq və ya dəyişdirmək üçün istifadə olunan mühit

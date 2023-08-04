@@ -1,0 +1,1 @@
+təşkilatın [[aktiv]]lərinə zərər verə bilən və ya onun əməliyyatlarına təhlükə yarada bilən bir və ya bir neçə əlaqəli və müəyyən edilmiş [[informasiya təhlükəsizliyi hadisəsi]]

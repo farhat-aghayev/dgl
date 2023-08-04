@@ -1,1 +1,0 @@
-A means of delivering value to customers by facilitating outcomes customers want to achieve without the ownership of specific costs and risks

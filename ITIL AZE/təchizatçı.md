@@ -1,0 +1,1 @@
+Bir təşkilat tərəfindən istifadə edilən xidmətlərin təmin edilməsinə cavabdeh olan maraqlı tərəf

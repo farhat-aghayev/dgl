@@ -1,1 +1,0 @@
-Lazım olduqda istifadə oluna biləcəyini təmin edən məlumatın xarakterik xüsusiyyəti.

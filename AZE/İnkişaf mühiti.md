@@ -1,1 +1,0 @@
-Canlı və sınaq mühitlərindən təcrid olunmuş xüsusi mühit adətən DEV adlanır.

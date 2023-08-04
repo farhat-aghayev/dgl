@@ -1,0 +1,1 @@
+An umbrella term for a collection of frameworks and techniques that together enable teams and individuals to work in a way that is typified by collaboriation, prioritization, iterative and incremental delivery, and timeboxing. There are several specific methods (or frameworks) that are classed as Agile, such as Scrum, Lean, and Kanban.	

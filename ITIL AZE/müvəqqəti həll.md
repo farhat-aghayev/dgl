@@ -1,0 +1,1 @@
+Hələ tam həlli mümkün olmayan insident və ya problemin təsirini azaldan və ya aradan qaldıran həll. Bəzi həllər insidentlərin baş vermə ehtimalını azaldır

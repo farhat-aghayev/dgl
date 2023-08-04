@@ -1,0 +1,1 @@
+The ability of an IT service or other configuration item to perform its agreed function when required

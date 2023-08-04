@@ -1,1 +1,0 @@
-provision of assurance that a claimed characteristic of an [[entity]] is correct

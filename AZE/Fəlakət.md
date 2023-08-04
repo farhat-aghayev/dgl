@@ -1,1 +1,1 @@
-Kritik bir iş prosesinə təsir edən və bərpası üçün müstəsna səy tələb edən böyük pozuntu hadisəsi.
+Bir təşkilata böyük zərər və ya ciddi itkiyə səbəb olan qəfil planlaşdırılmamış hadisə. Fəlakət təşkilatın əvvəlcədən müəyyən edilmiş minimum müddət ərzində kritik biznes funksiyalarını təmin edə bilməməsi ilə nəticələnir

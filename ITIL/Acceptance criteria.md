@@ -1,0 +1,1 @@
+A list of minimum requirements that a service or service component must meet for it to be acceptable to key stakeholders

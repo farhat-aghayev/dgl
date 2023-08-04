@@ -1,0 +1,1 @@
+A unique name that is used to identify and grant system access rights to a user, person, or role

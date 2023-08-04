@@ -1,0 +1,1 @@
+point in time to which data are to be recovered after a [[disruption]] has occurred

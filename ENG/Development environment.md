@@ -1,1 +1,0 @@
-Specialized environment, which is isolated from the live and testing environments, usually referred as DEV.

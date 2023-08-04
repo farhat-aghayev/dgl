@@ -1,0 +1,1 @@
+A way of working that has been proven to be successful by multiple organizations
