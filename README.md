@@ -7,3 +7,7 @@ Repository designed to serve as a centralized knowledge hub, storing definitions
 - ITIL AZE contains definitions of terms mentioned in ITIL folder
 - ENG folder contains definitions of terms which are not included in other folders
 - AZE is a translation of terms located in the ENG section into the Azerbaijani language 
+
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z4O5IBZ)
