@@ -1,0 +1,1 @@
+Məhsulları, xidmətləri və digər konfiqurasiya elementlərini sınaqdan keçirmək üçün yaradılmış idarə olunan mühit

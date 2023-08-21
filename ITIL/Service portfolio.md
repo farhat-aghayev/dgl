@@ -1,0 +1,1 @@
+A complete set of products and [[service]]s that are managed throughout their lifecycles by an organization

@@ -1,0 +1,1 @@
+Any change of state that has significance for the management of a service or other configuration item

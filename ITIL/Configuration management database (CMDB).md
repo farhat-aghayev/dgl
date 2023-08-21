@@ -1,0 +1,1 @@
+A database used to store configuration records throughout their lifecycle. The CMDB also maintains the relationships between configuration records

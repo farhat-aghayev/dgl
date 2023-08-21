@@ -1,0 +1,1 @@
+A product with just enough features to satisfy early customers, and to provide feedback for future product development

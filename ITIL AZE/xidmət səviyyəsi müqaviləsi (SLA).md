@@ -1,0 +1,1 @@
+Xidmət təminatçısı və müştəri arasında həm tələb olunan xidmətləri, həm də gözlənilən xidmət səviyyəsini müəyyən edən sənədləşdirilmiş müqavilədir.

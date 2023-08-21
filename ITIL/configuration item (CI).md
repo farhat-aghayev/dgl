@@ -1,0 +1,1 @@
+Any component that needs to be managed in order to deliver an IT service

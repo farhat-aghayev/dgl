@@ -1,0 +1,1 @@
+All types of data that are structured or organized in any form, such as databases.

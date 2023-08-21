@@ -1,0 +1,1 @@
+An incident with significant business impact, requiring an immediate coordinated resolution.

@@ -1,0 +1,1 @@
+The practice of analysing a business or some element of a business, defining its needs and recommending solutions to address these needs and/or solve a busines problem, and create value for stakeholders

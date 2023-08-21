@@ -1,0 +1,1 @@
+A role responsible for maintaining good relationships with one or more customers

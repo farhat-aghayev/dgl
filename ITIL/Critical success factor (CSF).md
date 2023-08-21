@@ -1,0 +1,1 @@
+A necessary precondition for the achievement of intended results

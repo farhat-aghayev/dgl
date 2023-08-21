@@ -1,1 +1,2 @@
 ötürülən, saxlanılan və ya başqa şəkildə emal edilən qorunan məlumatın arzuolunmaz məhvinə, itməsinə, dəyişdirilməsinə, açıqlanmasına və ya əldə edilməsinə səbəb olan informasiya təhlükəsizliyinin pozulması
+[[information security breach]]

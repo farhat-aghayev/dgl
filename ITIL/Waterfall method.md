@@ -1,0 +1,1 @@
+A development method that is linear and sequential with distinct objectives for each phase of development

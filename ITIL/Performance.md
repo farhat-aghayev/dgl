@@ -1,0 +1,1 @@
+A measure of what is achieved or delivered by a system, person, team, practice, or service

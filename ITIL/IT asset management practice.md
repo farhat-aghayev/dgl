@@ -1,0 +1,1 @@
+The practice of planning and managing the full lifecycle of all [[IT asset]]s

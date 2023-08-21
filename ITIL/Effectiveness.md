@@ -1,0 +1,1 @@
+A measure of whether the objectives of a practice, service or activity have been achieved

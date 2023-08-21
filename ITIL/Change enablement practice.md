@@ -1,0 +1,1 @@
+The practice of ensuring that risks are properly assessed, authorizing [[change]]s to proceed and managing a [[change schedule]] in order to maximize the number of successful service and product changes

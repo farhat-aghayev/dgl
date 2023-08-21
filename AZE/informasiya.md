@@ -1,0 +1,1 @@
+Konteksti faydalı və mənalı etmək üçün onda verilən məlumatların işlənilməsi, təşkil edilməsi, strukturlaşdırılması və ya təqdim edilməsi

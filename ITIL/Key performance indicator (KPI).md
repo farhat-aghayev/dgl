@@ -1,0 +1,1 @@
+An important metric used to evaluate the success in meeting an objective

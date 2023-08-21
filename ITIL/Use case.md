@@ -1,0 +1,1 @@
+A technique using realistic practical scenarios to define functional requirements and to design tests

@@ -1,0 +1,1 @@
+The evolution of traditional business models to meet the needs of highly empowered customers, with technology playing an enabling role

@@ -1,0 +1,1 @@
+Məlumat işlənilməsi lazım olan xam, təşkil olunmamış faktlardır.

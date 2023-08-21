@@ -1,0 +1,1 @@
+Formally documented management expectations and intentions, used to direct decisions and activities

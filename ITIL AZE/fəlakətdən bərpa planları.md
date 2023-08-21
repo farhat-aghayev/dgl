@@ -1,0 +1,2 @@
+Xidmətin idarə edilməsinin dörd ölçüsünü nəzərə alaraq, təşkilatın fəlakətdən necə xilas olacağı və fəlakətdən əvvəlki vəziyyətə qayıtması ilə bağlı aydın şəkildə müəyyən edilmiş planlar toplusu
+[[disaster recovery plans]]

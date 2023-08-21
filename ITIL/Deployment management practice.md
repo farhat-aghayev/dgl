@@ -1,0 +1,1 @@
+The practice of moving new or changed hardware, software, documentation, processes, or any other service component to live environments

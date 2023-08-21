@@ -1,0 +1,1 @@
+The practice of designing products and services that are fit for purpose, fit for use, and that can be delivered by the organization and its ecosystem

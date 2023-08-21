@@ -1,0 +1,1 @@
+Joint activities performed by a [[service provider]] and a service consumer to ensure continual value co-creation based on agreed and available [[Service offering]]

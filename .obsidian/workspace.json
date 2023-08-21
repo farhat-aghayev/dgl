@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "038ce60c5149753e",
+        "id": "77f9b46f284cb0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "dafdf470d2752a6e",
+            "id": "b2cc656a0af54790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "89b1ff92f7a40d53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dafdf470d2752a6e",
-  "lastOpenFiles": []
+  "active": "89b1ff92f7a40d53",
+  "lastOpenFiles": [
+    "graph view.png",
+    "README.md",
+    "ITIL/itil-cards.md",
+    "ITIL/disaster recovery plans.md"
+  ]
 }

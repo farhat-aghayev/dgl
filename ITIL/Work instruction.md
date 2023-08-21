@@ -1,0 +1,1 @@
+A detailed description to be followed in order to perform an activity

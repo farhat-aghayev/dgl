@@ -1,0 +1,1 @@
+The hardware and software solutions that detect or cause changes in physical processes through direct monitoring and/or control of physical devices such as valves, pumps, etc.

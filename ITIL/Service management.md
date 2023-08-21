@@ -1,0 +1,1 @@
+A set of specialized organizational capabilities for enabling value for customers in the form of services

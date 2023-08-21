@@ -1,0 +1,1 @@
+Any [Company] employee responsible as a business owner of processed [[information]]. For information processed in applications registered in [ITSM Tool] it is the designated Business Owner, for information processed in unstructured form it is the document creator.

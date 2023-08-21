@@ -1,0 +1,1 @@
+The interconnection of devices via the internet that were not traditionally thought of as IT assets, but now include embedded computing capability and network connectivity

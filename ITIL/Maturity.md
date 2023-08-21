@@ -1,0 +1,1 @@
+A measure of the reliability, efficiency and effectiveness of an organization, practice, or process

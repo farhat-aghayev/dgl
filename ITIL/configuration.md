@@ -1,0 +1,1 @@
+An arrangement of [[configuration item (CI)]]s or other resources that work together to deliver a product or service. Can also be used to describe the parameter settings for one or more CIs

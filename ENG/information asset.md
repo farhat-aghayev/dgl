@@ -1,0 +1,1 @@
+A digital resource such as file or database that contains information.

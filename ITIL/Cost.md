@@ -1,0 +1,1 @@
+The amount of money spent on a specific activity or resource

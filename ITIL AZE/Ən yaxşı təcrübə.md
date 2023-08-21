@@ -1,1 +1,2 @@
-A way of working that has been proven to be successful by multiple organizations
+Bir çox təşkilat tərəfindən uğurlu olduğu sübut edilmiş iş üsulu
+[[best practice]]

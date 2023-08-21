@@ -1,0 +1,1 @@
+A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress

@@ -1,0 +1,1 @@
+A temporary structure that is created for the purpose of delivering one or more outputs (or products) according to an agreed business case

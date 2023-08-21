@@ -1,0 +1,1 @@
+A defined aspiration of what an organization would like to become in the future

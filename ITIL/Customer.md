@@ -1,0 +1,1 @@
+The role that defines the requirements for a service and takes responsibility for the outcomes of the service consumption

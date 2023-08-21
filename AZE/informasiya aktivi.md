@@ -1,0 +1,1 @@
+İnformasiyalardan ibarət olan fayl və ya məlumat bazası kimi rəqəmsal resurs

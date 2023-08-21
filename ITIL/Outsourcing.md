@@ -1,0 +1,1 @@
+The process of having external suppliers provide products and services that were previously provided internally

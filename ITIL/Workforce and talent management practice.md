@@ -1,0 +1,1 @@
+The practice of ensuring that an organization has the right people with the appropriate skills and knowledge and in the correct roles to support its business objectives

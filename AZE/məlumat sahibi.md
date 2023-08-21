@@ -1,0 +1,1 @@
+İşlənmiş [[məlumat]]ın biznes sahibi kimi məsuliyyət daşıyan hər hansı [Şirkət] əməkdaşı. [ITSM Tool] qeydiyyatdan keçmiş tətbiqlərdə işlənmiş məlumat üçün təyin olunmuş Biznes Sahibi, strukturlaşdırılmamış formada işlənmiş məlumat üçün isə sənəd yaradıcısıdır.

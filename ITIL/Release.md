@@ -1,0 +1,1 @@
+A version of a service or other configuration item, or a collection of configuration items, that is made available for use

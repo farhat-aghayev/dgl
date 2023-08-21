@@ -1,0 +1,1 @@
+One of the four dimensions of service management. It defines the activities, workflows, controls, and procedures needed to achieve the agreed objectives

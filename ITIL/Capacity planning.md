@@ -1,0 +1,1 @@
+The activity of creating a plan that manages resources to meet demand for services

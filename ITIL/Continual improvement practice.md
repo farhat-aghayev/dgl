@@ -1,0 +1,1 @@
+The practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and service

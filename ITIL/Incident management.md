@@ -1,0 +1,1 @@
+The practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible

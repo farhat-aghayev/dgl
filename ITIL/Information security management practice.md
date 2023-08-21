@@ -1,0 +1,1 @@
+The practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information

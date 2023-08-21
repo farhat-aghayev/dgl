@@ -1,0 +1,1 @@
+A short but complete description of the overall purpose and intentions of an organization

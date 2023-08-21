@@ -1,0 +1,1 @@
+Any financially valuable component that can contribute to the delivery of an IT product or service	

@@ -1,0 +1,1 @@
+A set of related projects and activities, and an organization structure created to direct and oversee them
