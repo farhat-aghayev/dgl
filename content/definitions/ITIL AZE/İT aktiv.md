@@ -1,0 +1,1 @@
+İT məhsulunun və ya xidmətinin çatdırılmasına töhfə verə biləcək hər hansı maliyyə cəhətdən dəyərli komponent

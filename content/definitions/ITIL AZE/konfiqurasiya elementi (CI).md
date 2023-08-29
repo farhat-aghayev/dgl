@@ -1,0 +1,1 @@
+Konfiqurasiya elementi (CI) İT xidmətini təqdim etmək üçün idarə edilməli olan hər hansı komponent

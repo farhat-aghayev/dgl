@@ -1,0 +1,1 @@
+A report or metric that serves as a starting point against which progress or change can be assessed

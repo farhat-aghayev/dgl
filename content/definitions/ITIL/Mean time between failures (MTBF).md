@@ -1,0 +1,1 @@
+A metric of how frequently a service or other configuration item fails

@@ -1,0 +1,1 @@
+A low-risk, pre-authorized change that is well understood and fully documented, and which can be implemented without needing additional authorization.

@@ -1,0 +1,1 @@
+Personnel, material, finance, or other entity that is required for the execution of an activity or the achievement of an objective. Resources used by an organization may be owned by the organization or used according to an agreement with the resource owner

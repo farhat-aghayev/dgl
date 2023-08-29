@@ -1,0 +1,1 @@
+The practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels

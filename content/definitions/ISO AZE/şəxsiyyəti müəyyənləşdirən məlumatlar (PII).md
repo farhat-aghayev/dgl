@@ -1,0 +1,2 @@
+məlumatla bu məlumatın aid olduğu fiziki şəxs arasında əlaqə yaratmaq üçün istifadə edilə bilən hər hansı məlumat, və ya fiziki şəxslə birbaşa və ya dolayısı ilə əlaqəli olan və ya ola bilən hər hansı məlumat.
+[[personally identifiable information (PII)]]

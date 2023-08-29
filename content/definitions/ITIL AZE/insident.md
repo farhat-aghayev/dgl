@@ -1,0 +1,1 @@
+Xidmətin planlaşdırılmamış kəsilməsi və ya xidmətin keyfiyyətinin azalması.

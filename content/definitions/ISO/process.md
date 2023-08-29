@@ -1,0 +1,1 @@
+set of interrelated or interacting activities that uses or transforms inputs to deliver a result 

@@ -1,0 +1,2 @@
+bir şəxsə, təşkilata, milli təhlükəsizliyə və ya ictimai təhlükəsizliyə potensial mənfi təsirlər səbəbindən əlçatmazlıqdan, icazəsiz girişdən, dəyişdirilmədən və ya ictimaiyyətə açıqlanmadan qorunmalı olan məlumat
+[[sensitive information]]

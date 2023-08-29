@@ -1,0 +1,1 @@
+stakeholder, person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity

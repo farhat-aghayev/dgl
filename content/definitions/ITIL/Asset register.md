@@ -1,0 +1,1 @@
+A database or list of assets, capturing key attributes such as ownership and financial value

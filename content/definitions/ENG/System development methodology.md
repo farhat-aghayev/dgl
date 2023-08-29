@@ -1,0 +1,1 @@
+A system development methodology refers to the steps that are used to form, plan, and control the process of developing an information system.

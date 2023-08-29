@@ -1,0 +1,1 @@
+means to ensure that physical and logical access to [[asset]] is authorized and restricted based on business and information security requirements

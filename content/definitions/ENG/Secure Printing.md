@@ -1,0 +1,1 @@
+Requiring a token or pin to be entered into the printer itself before printing documents that have been sent to the printer.

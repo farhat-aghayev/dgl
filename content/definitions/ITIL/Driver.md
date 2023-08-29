@@ -1,0 +1,1 @@
+Something that influences strategy, objectives, or requirements

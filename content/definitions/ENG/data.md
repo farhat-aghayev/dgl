@@ -1,0 +1,1 @@
+Data is raw, unorganized facts that need to be processed.

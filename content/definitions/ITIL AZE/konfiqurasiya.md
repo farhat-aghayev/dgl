@@ -1,0 +1,1 @@
+Məhsul və ya xidməti çatdırmaq üçün birlikdə işləyən [[konfiqurasiya elementi (CI)]] və ya digər resursların təşkili. Bir və ya bir neçə CI üçün parametr parametrlərini təsvir etmək üçün də istifadə edilə bilər

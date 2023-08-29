@@ -1,0 +1,1 @@
+A technique whereby the outputs of one part of a system are used as inputs to the same part of the system

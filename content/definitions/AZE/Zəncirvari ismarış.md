@@ -1,0 +1,1 @@
+Alıcıdan ismarışı bir çox digər şəxsə göndərməsini tələb edən elektron ismarış.

@@ -1,0 +1,1 @@
+An integrated set of practices and tools used to merge developers' code, build and test the resulting software, and package it so that it is ready for deployment

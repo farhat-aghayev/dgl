@@ -1,0 +1,1 @@
+Privileged access can be permanently or periodically provided to address specific, approved tasks. All privileged access activity should be recorded and monitored to deter misuse and ensure any inappropriate behavior is captured.

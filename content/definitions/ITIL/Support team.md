@@ -1,0 +1,1 @@
+A team with the responsibility to maintain normal operations, address users' requests, and resolve incidents and problems related to specified products, services, or other configuration items

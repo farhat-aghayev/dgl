@@ -1,0 +1,1 @@
+Vacib biznes funksiyalarını və onlardan asılılıqları müəyyən edən xidmətin davamlılığının idarə edilməsi praktikasında əsas fəaliyyət

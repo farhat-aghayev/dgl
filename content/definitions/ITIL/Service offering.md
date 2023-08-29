@@ -1,0 +1,1 @@
+A formal description of one or more [[service]]s, designed to address the needs of a target consumer group. A service offering may include goods, access to resources, and service actions

@@ -1,0 +1,1 @@
+Sistem inkişafı metodologiyası informasiya sisteminin işlənib hazırlanması prosesini formalaşdırmaq, planlaşdırmaq və idarə etmək üçün istifadə olunan addımlara aiddir.

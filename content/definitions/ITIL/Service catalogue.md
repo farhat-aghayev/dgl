@@ -1,0 +1,1 @@
+Structured information about all the services and service offerings of a service provider, relevant for a specific target audience

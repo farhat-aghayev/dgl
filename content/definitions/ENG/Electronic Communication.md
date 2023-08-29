@@ -1,0 +1,1 @@
+Any document or information sent, viewed or received using any of the [Company] IT Resources, including e-mail, text messages and instant messaging.

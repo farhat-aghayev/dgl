@@ -1,0 +1,1 @@
+Elektron qaydada yerləşdirilə, saxlanıla və çıxarıla bilən hər hansı cihaz və ya material, məsələn USB çubuqlar.

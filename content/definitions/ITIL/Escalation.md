@@ -1,0 +1,1 @@
+The act of sharing awareness or transferring ownership of an issue or work item

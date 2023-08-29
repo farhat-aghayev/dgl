@@ -1,0 +1,1 @@
+The practice of ensuring that services deliver agreed levels of availability to meet the needs of customers and users

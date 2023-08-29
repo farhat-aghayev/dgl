@@ -1,0 +1,1 @@
+The role that authorizes budget for service consumption. Can also be used to describe an organization or individual that provides financial or other support for an initiative

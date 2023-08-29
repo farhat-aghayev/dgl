@@ -1,0 +1,1 @@
+A view of the service catalogue, providing details on service requests for existing and new services, which is made available for the user

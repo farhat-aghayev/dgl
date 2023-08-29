@@ -1,0 +1,1 @@
+Kompüter sistemi daxilində zərərli fəaliyyət üçün nəzərdə tutulan icazəsiz və/və ya arzuolunmaz proqram təminatı. Zərərli kompüter proqram təminatlarına viruslar, soxulcanlar, Troyan Atları, casus proqramları və reklam proqramları daxildir.

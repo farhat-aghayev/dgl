@@ -1,0 +1,1 @@
+An integrated set of practices and tools used to deploy software changes into the production environment. These software changes have already passed pre-defined automated tests

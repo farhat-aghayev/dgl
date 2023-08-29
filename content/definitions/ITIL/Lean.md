@@ -1,0 +1,1 @@
+An approach that focuses on improving workflows by maximizing value through the elimination of waste

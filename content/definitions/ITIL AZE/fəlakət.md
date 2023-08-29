@@ -1,0 +1,1 @@
+Bir təşkilata böyük zərər və ya ciddi itkiyə səbəb olan qəfil planlaşdırılmamış hadisə. Fəlakət təşkilatın əvvəlcədən müəyyən edilmiş minimum müddət ərzində kritik biznes funksiyalarını təmin edə bilməməsi ilə nəticələnir

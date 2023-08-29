@@ -1,0 +1,1 @@
+Test Mühitində son keyfiyyət sınaqı, həyata keçirilməsindən sonra sistemin biznesdə necə işləyəcəyini təqlid edən əvvəlcədən təyin edilmiş biznes axınlarının və ya ssenarilərin icrası vasitəsilə həyata keçirilir.

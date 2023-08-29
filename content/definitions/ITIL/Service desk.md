@@ -1,0 +1,1 @@
+The point of communication between the service provider and all its users

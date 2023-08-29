@@ -1,0 +1,1 @@
+A person or organization that has an interest or involvement in an organization, product, service, practice, or other entity

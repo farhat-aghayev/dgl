@@ -1,0 +1,1 @@
+A function or team that monitors, detects, and responds to security incidents and threats.

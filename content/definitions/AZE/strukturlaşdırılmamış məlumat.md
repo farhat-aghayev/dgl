@@ -1,0 +1,1 @@
+Əvvəlcədən müəyyən edilmiş məlumat modelinə malik olmayan və ya sənədlər, e-poçtlar, cədvəllər, şəkillər, diaqramlar və s. kimi əvvəlcədən müəyyən edilmiş şəkildə təşkil olunmayan informasiyalar.

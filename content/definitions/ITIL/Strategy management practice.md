@@ -1,0 +1,1 @@
+The practice of formulating the goals of an organization and adopting the courses of action and allocation of resources necessary for achieving those goals

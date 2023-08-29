@@ -1,0 +1,1 @@
+The value chain activity that ensures services are delivered and supported according to agreed specifications and stakeholders' expectations

@@ -1,0 +1,1 @@
+A set of organizational resources designed for performing work or accomplishing an objective

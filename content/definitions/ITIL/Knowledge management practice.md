@@ -1,0 +1,1 @@
+The practice of maintaining and improving the effective, efficient, and convenient use of information and knowledge across an organization

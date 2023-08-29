@@ -1,0 +1,1 @@
+A result for a stakeholder enabled by one or more outputs

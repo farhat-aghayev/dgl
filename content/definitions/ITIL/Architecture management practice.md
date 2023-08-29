@@ -1,0 +1,1 @@
+The practice of providing an understanding of all the different elements that make up an orgnization and how those elements relate to one another	

@@ -1,0 +1,1 @@
+A person or group responsible for authorizing a [[change]]

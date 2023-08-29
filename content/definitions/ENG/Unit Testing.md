@@ -1,0 +1,1 @@
+Testing in Development environment to verify the configuration’s compliance with specified requirements, identify possible gaps in the solution design at an early stage and fix any identified issues before Integration/User Acceptance Testing.

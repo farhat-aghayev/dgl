@@ -1,0 +1,1 @@
+The capability of the organization to continue delivery of products or services at acceptable predefined levels following a disruptive incident. (ISO 22301, BC Standard).

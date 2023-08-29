@@ -1,0 +1,1 @@
+İnformasiya texnologiyalarından istifadəyə əsaslanan xidmət

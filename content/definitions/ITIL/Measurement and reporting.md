@@ -1,0 +1,1 @@
+The practice of supporting good decision-making and continual improvement by decreasing levels of uncertainty

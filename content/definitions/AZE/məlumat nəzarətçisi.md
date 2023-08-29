@@ -1,0 +1,1 @@
+[[məlumat sahibi]]nin adından emal fəaliyyətini həyata keçirən hər hansı [Şirkət] işçisi. Məlumat nəzarətçisi məlumat sahibinin göstərişi əsasında standartın icrasına cavabdehdir.

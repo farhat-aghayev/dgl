@@ -1,0 +1,1 @@
+The total rework backlog accumulated by choosing workarounds instead of system solutions that would take longer.

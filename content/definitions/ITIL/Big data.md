@@ -1,0 +1,1 @@
+The use of very large volumes of structured and unstructured data from a variety of sources to gain new insights

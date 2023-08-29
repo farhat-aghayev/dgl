@@ -1,0 +1,1 @@
+A configuration of an organization's resources designed to offer value for a consumer

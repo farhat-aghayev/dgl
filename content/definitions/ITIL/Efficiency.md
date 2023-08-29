@@ -1,0 +1,1 @@
+A measure of whether the right amount of resources have been used by a practice, service, or activity

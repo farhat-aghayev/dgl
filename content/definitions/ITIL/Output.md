@@ -1,0 +1,1 @@
+A tangible or intangible deliverable of an activity

@@ -1,0 +1,1 @@
+[Şirkət] tərəfindən İstifadəçiyə təqdim edilən və [Şirkət] İT Departamenti tərəfindən idarə olunan istənilən Biznes Tətbiqi və ya İnformasiya Resursunu təyin oluna bilər.

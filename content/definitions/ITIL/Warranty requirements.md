@@ -1,0 +1,1 @@
+Typically non-functional requirements captured as inputs from key stakeholders and other practices

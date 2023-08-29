@@ -1,0 +1,1 @@
+Elektron poçt, mətn ismarışı və ani məktublaşma da daxil olmaqla, [Şirkət] hər hansı İT Resursu vasitəsilə göndərilən, baxılan və ya alınan hər hansı sənəd və ya məlumat.

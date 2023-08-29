@@ -1,0 +1,1 @@
+Vəzifənizi yerinə yetirərkən sizin tərəfinizdən yaradılan və ya yığılan hər hansı məlumat

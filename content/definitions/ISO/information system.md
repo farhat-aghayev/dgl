@@ -1,0 +1,1 @@
+set of applications, services, information technology [[asset]]s, or other information-handling components

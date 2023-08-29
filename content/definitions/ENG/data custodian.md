@@ -1,0 +1,1 @@
+Any [Company] employee who is carrying out processing activities on behalf of the [[data owner]]. Data custodian is responsible for execution of the standard based on data owner guidance.

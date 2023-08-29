@@ -1,0 +1,1 @@
+Daimi olaraq kompüterə bərkidilməyən, CD-lər, DVD-lər, USB çubuqlar və USB disklər kimi hər hansı media daşıyıcıları.

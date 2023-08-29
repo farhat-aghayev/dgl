@@ -1,0 +1,1 @@
+A loss of ability to operate to specification, or to deliver the required output or outcome

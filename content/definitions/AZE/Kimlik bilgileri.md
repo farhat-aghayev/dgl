@@ -1,0 +1,1 @@
+Kimlik bilgileri və digər atributları şəxsiyyətə bağlayır (statik/dinamik parollar, rəqəmsal sertifikatlar).

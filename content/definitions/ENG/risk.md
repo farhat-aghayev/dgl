@@ -1,0 +1,1 @@
+Information security risk is the potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the [Company]

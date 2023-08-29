@@ -1,0 +1,1 @@
+A role performed by an organization in a service relationship to provide [[service]]s to consumers

@@ -1,0 +1,1 @@
+Daha uzun vaxt aparacaq sistem həlləri əvəzinə [[müvəqqəti həll]]ərin seçilməsi ilə yığılmış ümumi yenidən iş planı.

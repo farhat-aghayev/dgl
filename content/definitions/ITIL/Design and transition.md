@@ -1,0 +1,1 @@
+The value chain activity that ensures products and services continually meet stakeholder expectations for quality, costs, and time to market

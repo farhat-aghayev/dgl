@@ -1,0 +1,1 @@
+Standart və ya təlimatlar toplusuna əməl olunmasını və ya müvafiq, ardıcıl mühasibat uçotu və ya digər təcrübələrin tətbiq edilməsini təmin etmək aktı

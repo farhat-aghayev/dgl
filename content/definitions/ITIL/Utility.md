@@ -1,0 +1,1 @@
+The functionality offered by a product or service to meet a particular need. Utility can be summarized as 'what the service does' and can be used to determine whether a service is 'fit for purpose'. To have utility, a service must either support the performance of the consumer or remove constraints from the consumer. Many services to both.

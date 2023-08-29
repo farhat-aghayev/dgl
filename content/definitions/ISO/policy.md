@@ -1,0 +1,1 @@
+intentions and direction of an organization, as formally expressed by its top management

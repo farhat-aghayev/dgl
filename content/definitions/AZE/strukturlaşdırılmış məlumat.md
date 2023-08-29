@@ -1,0 +1,1 @@
+Məlumat bazası kimi hər hansı formada strukturlaşdırılmış və ya təşkil edilmiş bütün növ məlumatlar.

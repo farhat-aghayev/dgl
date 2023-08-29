@@ -1,0 +1,2 @@
+minimum səviyyələrdə xidmətlərin və/yaxud məhsulların və dəstəkləyici sistemlərin, tətbiqlərin və ya funksiyaların [[pozulma]] baş verdikdən sonra bərpa olunacağı müddət
+[[recovery time objective (RTO)]]

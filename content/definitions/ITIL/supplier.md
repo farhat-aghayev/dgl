@@ -1,0 +1,1 @@
+A stakeholder responsible for providing services that are used by an organization

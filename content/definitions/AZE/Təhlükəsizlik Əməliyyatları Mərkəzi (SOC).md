@@ -1,0 +1,1 @@
+Təhlükəsizlik insidentlərini və təhdidlərini izləyən, aşkarlayan və cavab verən funksiya və ya komanda.

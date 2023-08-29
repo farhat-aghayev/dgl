@@ -1,0 +1,1 @@
+Ənənəvi biznes modellərinin təkamülü, yüksək səlahiyyətlərə malik müştərilərin ehtiyaclarını ödəmək üçün texnologiya əsas imkan yaradan rol oynayır

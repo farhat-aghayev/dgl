@@ -1,0 +1,1 @@
+Credentials bind identifiers and other attributes to an identity (static/dynamic passwords, digital certificates).

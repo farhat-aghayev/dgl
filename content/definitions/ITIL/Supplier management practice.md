@@ -1,0 +1,1 @@
+The practice of ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services
