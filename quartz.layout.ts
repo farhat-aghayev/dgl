@@ -19,11 +19,9 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList()],
-  left: [
-    Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
-  right: [Component.Graph(), Component.Backlinks()],
+  pageBody: [Component.Graph(), Component.Backlinks()],
+  left: [],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

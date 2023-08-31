@@ -4,6 +4,7 @@
 [[Asset register]]
 [[availability]]
 [[Availability management practice]]
+
 [[baseline]]
 [[best practice]]
 [[Big data]]
@@ -11,6 +12,7 @@
 [[Business analysis practice]]
 [[Business case]]
 [[Business relationship manager (BRM)]]
+
 [[Capacity planning]]
 [[change]]
 [[Change enablement practice]]
@@ -30,6 +32,7 @@
 [[Cost centre]]
 [[Critical success factor (CSF)]]
 [[Customer]]
+
 [[Demand]]
 [[Deployment]]
 [[Deployment management practice]]
@@ -42,6 +45,7 @@
 [[disaster]]
 [[disaster recovery plans]]
 [[Driver]]
+
 [[Effectiveness]]
 [[Efficiency]]
 [[emergency change]]
@@ -52,6 +56,7 @@
 [[event]]
 [[Failure]]
 [[Feedback loop]]
+
 [[identity]]
 [[incident]]
 [[Incident management]]
@@ -63,6 +68,7 @@
 [[IT asset management practice]]
 [[IT infrastructure]]
 [[IT Service]]
+
 [[Kanban]]
 [[Key performance indicator (KPI)]]
 [[Knowledge management practice]]
@@ -83,6 +89,7 @@
 [[Outcome]]
 [[Output]]
 [[Outsourcing]]
+
 [[Partners and suppliers]]
 [[Performance]]
 [[Pilot]]
@@ -125,8 +132,8 @@
 [[Service request]]
 [[Service request management practice]]
 [[Software development and management practice]]
-[[Sponsor
-[[Standard change]]]]
+[[Sponsor]]
+[[Standard change]]
 [[Stakeholder]]
 [[Strategy management practice]]
 [[supplier]]
@@ -135,7 +142,6 @@
 
 [[testing environment]]
 [[technical debt]]
-
 [[Use case]]
 [[Utility]]
 [[value]]
